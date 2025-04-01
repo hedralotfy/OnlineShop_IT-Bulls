@@ -2,22 +2,18 @@
 This repository contains an implementation of an online shop backend application. The project was initially provided as a practice exercise, where we were given a predefined structure with method placeholders.
 The task was to implement the functionality within specific methods, such as start() and printMenuHeader(), to complete the required features.
 
-This project was part of a learning exercise, and the instructor allowed us to share our solutions on GitHub.
-
 🚀 Features Implemented
 User Management: Implemented functionality in DefaultUserManagementService.
 
-Sign-Up Process: Completed the SignUpMenu to allow user registration and other menus logic.
+Sign-Up Process: Completed the SignUpMenu to allow user registration and other menu logic.
 
-Entities: Added properties in entities like DefaultUser and DefaultOrder and added functionality to
-processes that uses them.
+Entities: Added properties in entities like DefaultUser and DefaultOrder, and added functionality to
+processes that use them.
 
 Backend Logic: Enhanced and filled in key methods to complete the application workflow.
 
 🛠️ Technologies Used
-Java (or the relevant language)
-
-[Any frameworks or libraries you used]
+Java OOP
 
 📂 Project Structure
 
@@ -46,7 +42,8 @@ Clone the repository:
 
 sh
 
-git clone https://github.com/yourusername/online-shop-backend.git  
+`git clone (https://github.com/hedralotfy/OnlineShop_IT-Bulls.git) `
+
 Open the project in your preferred IDE.
 
-Run Main.java.
+Run `Main.java`.
