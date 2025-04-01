@@ -20,9 +20,7 @@ Java (or the relevant language)
 [Any frameworks or libraries you used]
 
 📂 Project Structure
-css
-Copy
-Edit
+
 ```
 /com/itbulls/learnit/javacore/oop/exam/templates/onlineshop  
   ├── services  
